@@ -1,0 +1,20 @@
+//Not written by MarcusMollerHB 
+
+DZE_CLICK_ACTIONS = [
+    ["Binocular","View Distance 500m","setViewDistance 500;","true"],
+    ["Binocular","View Distance 1000m","setViewDistance 1000;","true"],
+    ["Binocular","View Distance 1500m","setViewDistance 1500;","true"],
+    ["Binocular","View Distance 2000m","setViewDistance 2000;","true"],
+    ["Binocular","View Distance 2500m","setViewDistance 2500;","true"],
+    ["Binocular","View Distance 3000m","setViewDistance 3000;","true"],
+    ["Binocular","View Distance 4000m","setViewDistance 4000;","true"],
+    ["Binocular","View Distance 5000m","setViewDistance 5000;","true"],
+    ["Binocular_Vector","View Distance 500m","setViewDistance 500;","true"],
+    ["Binocular_Vector","View Distance 1000m","setViewDistance 1000;","true"],
+    ["Binocular_Vector","View Distance 1500m","setViewDistance 1500;","true"],
+    ["Binocular_Vector","View Distance 2000m","setViewDistance 2000;","true"],
+    ["Binocular_Vector","View Distance 2500m","setViewDistance 2500;","true"],
+    ["Binocular_Vector","View Distance 3000m","setViewDistance 3000;","true"],
+    ["Binocular_Vector","View Distance 4000m","setViewDistance 4000;","true"],
+    ["Binocular_Vector","View Distance 5000m","setViewDistance 5000;","true"]
+];
